@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "793a6ed8958ee1666f97",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/09-final-project-barrie-avila/static/js/main.793a6ed8.chunk.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
