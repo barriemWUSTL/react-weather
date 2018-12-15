@@ -12,7 +12,12 @@ class Weather extends React.Component{
                 }
                 {
                     this.props.temperature && <p className="weather__key">Temperature: 
-                    <span className="weather__value" >  {this.props.temperature}</span>
+                    <span className="weather__value" >  {this.props.temperature}ºF</span>
+                    </p>
+                }
+                {
+                    this.props.description && <p className="weather__key" >Conditions: 
+                    <span className="weather__value">  {this.props.description}</span>
                     </p>
                 }
                 {
@@ -25,11 +30,6 @@ class Weather extends React.Component{
                 {
                     this.props.humidity && <p className="weather__key">Humidity: 
                     <span className="weather__value" >  {this.props.humidity}</span>
-                    </p>
-                }
-                {
-                    this.props.description && <p className="weather__key" >Conditions: 
-                    <span className="weather__value">  {this.props.description}</span>
                     </p>
                 }
                 {

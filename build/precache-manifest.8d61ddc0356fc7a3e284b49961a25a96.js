@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
-    "revision": "793a6ed8958ee1666f97",
-    "url": "/09-final-project-barrie-avila/static/css/main.010387f3.chunk.css"
+    "revision": "39094121af4b3eb5e436",
+    "url": "/09-final-project-barrie-avila/static/css/main.7cac9843.chunk.css"
   },
   {
-    "revision": "b6796c732547b6b7e19cdc8e4ad58356",
-    "url": "/09-final-project-barrie-avila/static/media/bg.b6796c73.jpg"
+    "revision": "4bc7e8b044b0cab543643fa1aa226a85",
+    "url": "/09-final-project-barrie-avila/static/media/2.4bc7e8b0.jpg"
   },
   {
     "revision": "3dcf783bc818465cfa6e",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/09-final-project-barrie-avila/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "793a6ed8958ee1666f97",
-    "url": "/09-final-project-barrie-avila/static/js/main.793a6ed8.chunk.js"
+    "revision": "39094121af4b3eb5e436",
+    "url": "/09-final-project-barrie-avila/static/js/main.39094121.chunk.js"
   },
   {
     "revision": "f4769f9bdb7466be65088239c12046d1",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/09-final-project-barrie-avila/static/css/1.fe832650.chunk.css"
   },
   {
-    "revision": "e17d231f0afab80baf7d86dabd853c15",
+    "revision": "6dc7fc06dc9a894e2bd0a4396f737fed",
     "url": "/09-final-project-barrie-avila/index.html"
   }
 ];
