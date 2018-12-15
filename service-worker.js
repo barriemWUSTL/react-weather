@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/09-final-project-barrie-avila/precache-manifest.965ca05cc6489f9dbcbde07a16ed45d0.js"
+  "/09-final-project-barrie-avila/precache-manifest.8d61ddc0356fc7a3e284b49961a25a96.js"
 );
 
 workbox.clientsClaim();
